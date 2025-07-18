@@ -34,7 +34,7 @@ Test report path : build/reports/tests/test/index.html
 
 Sample request and response
 ```
-Request Body
+Request Bodyd
 
 {
   "totalAmount": 200,
