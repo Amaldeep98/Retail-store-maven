@@ -32,7 +32,7 @@ Test report path : build/reports/tests/test/index.html
 ```
 
 
-Sample request and response
+Sample request and responses
 ```
 Request Bodyd
 
