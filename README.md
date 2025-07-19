@@ -60,7 +60,7 @@ Sample curl command to hit API
 curl --location --request POST 'localhost:8080/net-payable' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-  "totalAmount": 200,
+  "totalAmount": 200,,
   "isGroceries": false,
   "userType": "EMPLOYEE"
 }'
